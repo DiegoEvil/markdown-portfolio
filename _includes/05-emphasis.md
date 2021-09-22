@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## _Skills_
+Fluent _Spanglish_ Speaker
+Knowledge in _C#, Java, Kotlin, Typescript, and more_
+_Curiousity_ driven
